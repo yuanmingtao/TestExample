@@ -1,0 +1,6 @@
+/vendor
+/coverage
+/.settings
+.buildpath
+.project
+
